@@ -6,6 +6,6 @@
     "callback": "https://hacker81818.github.io/.well-known/lnurlp/Hacker",
     "metadata": "[[\"text/Hacker\",\"Hacker's lightning address\"],[\"text/identifier\",\"Hacker@hacker81818.github.io\"]]",
     "allowsNostr": true,
-    "nostrPubkey": "dea6957048c7fc88495a227b6b04d2ee036938b74478321955d0aa59b77ee882",
+    "nostrPubkey": "40e10350fed534e5226b73761925030134d9f85306ee1db5cfbd663118034e84",
     "commentAllowed": 500
 }
